@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1586623453 source:d:\lab-4\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<malloc.h>
+
+1266065414 d:\a.sh.v\krsu\ОАП\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1587092020 source:d:\a.sh.v\krsu\ОАП\Новая папка\lab-4\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<malloc.h>
+
